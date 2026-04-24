@@ -1,9 +1,3 @@
-# ============================================================
-# Weather Data Analysis Project
-# Author: [Your Name]
-# Description: Analyze historical weather data to find trends
-#              in temperature and rainfall using Python.
-# ============================================================
 
 import pandas as pd
 import numpy as np
